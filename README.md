@@ -1,6 +1,6 @@
 
-<-- 
-"👋 Hi there! I'm Lynn, a customer experience professional making a transition into the exciting world of software engineering. Currently, I'm an ALX student, immersing myself in the world of full-stack software engineering.
+ 
+- 👋 **Hi there! I'm Lynn,** a customer experience professional making a transition into the exciting world of software engineering. Currently, I'm an ALX student, immersing myself in the world of full-stack software engineering.
 
 - 🚀 With a background in customer experience, I bring a unique perspective to software development, combining user-centric thinking with technical expertise. I'm passionate about creating seamless and enjoyable experiences for users through innovative software solutions.
 
@@ -15,4 +15,4 @@
 - 😄 Pronouns: She/Her
 
 - ⚡ Fun fact: I love Baking
--->
+
