@@ -1,4 +1,4 @@
 
  
-- 👋 **Hi there! I'm Lynn,** 
+- 👋 **Hi there! I'm Lynn.** 
 
